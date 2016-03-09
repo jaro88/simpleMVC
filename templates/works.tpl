@@ -17,7 +17,10 @@
                                 <a href="http://www.stehovanipraha-trip.cz/cs/kalkulacka" class="list-group-item" target="_blank">www.stehovani-trip.cz - len kalkulačka v js</a>
                                 <a href="https://www.topclerks.cz/mojeucto" class="list-group-item" target="_blank">topclerks.cz/mojeucto - navrh + kodovanie online systému na zobrazenie učtovných dokladov </a>
                                 <a href="convertor.zip" class="list-group-item">controler.zip - jednoduchý convertor CSV do MDB</a>
+<<<<<<< HEAD
                                 <a href="https://github.com/jaro88/simpleMVC" class="list-group-item" target="_blank">tato stránka v jednoduchom MVC frameworku na Github</a>
+=======
+>>>>>>> 2955c30312736686a55c7294504ef1ecaaeaccbe
                             </div>
                                 
                         
